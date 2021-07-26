@@ -14,7 +14,7 @@ Este projeto tem como objetivo gerenciar produtos e cadastros de clientes.
     - VisualStudio Code ou algum editor de código fonte
 #
 - Clone o repositório com `git clone https://github.com/ilessalobo/dashboard-vtex.git`
-- Abra o terminal e navegue até pasta para onde o repostório foi clonado.
+- Navegue até pasta onde o repostório foi clonado;
 - Posteriormente abra o arquivo index.html com o navegador.
 
 
