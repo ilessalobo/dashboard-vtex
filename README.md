@@ -1,4 +1,4 @@
-## Projeto apostado v12.07.2021B
+
 #### Tecnologias Utilizadas
 
  - **Front-End**
