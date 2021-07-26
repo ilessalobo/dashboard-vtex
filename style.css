@@ -1,0 +1,21 @@
+.bg-body{
+
+    background-color: #1f2533  !important;
+}
+
+
+footer{
+	background-color: #222;
+	color: #ccc;
+	padding: 20px;
+	text-align: center;
+    position: relative;
+    font-size: 13px;
+}
+
+
+.linhafina {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, transparent, rgb(143, 147, 149), transparent);
+}
